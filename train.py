@@ -1,10 +1,10 @@
 """
-Transformer model implementation from scratch
+Training loop for WCST transformer
 TODO: Implement this file
 """
 
 import torch
 import torch.nn as nn
-import math
+from torch.optim import AdamW
 
 # Implementation goes here
